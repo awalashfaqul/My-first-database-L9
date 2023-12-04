@@ -4,28 +4,18 @@
 This task is about creating my first database and writing some basic SQL queries that retrieve data from the database.
 
 # Case
-- The database to be created is a simple database with at least two tables.
-- We should be familiar with the SSMS tool and be able to work with different data types.
+- The created database is a simple database with at two tables. This has helped to be familiar with the SSMS tool and be able to work with different data types.
 
 # What to do
 
-- Open SSMS and connect it to the local server on your computer.
+- Create a database using a query in SSMS environment by connecting to the local server on my computer.
 
-- Create a database using a query.
+- The database is named as 'TestDatabase'.
 
-- The database should be called TestDatabase.
+- Created two tables with queries: Teams & Players.
 
-- Create two or three tables with queries.
+- Have set and used primary key and foreign key in the tables.
 
-- You must use primary key and foreign key in the tables.
+- Joined two tables with a "simple" relationship.
 
-- Join two tables with a "simple" relationship.
-
-- Do the same steps graphically with a different database name for reference. Feel free to create a database diagram.
-
-# Tip
-If you're having trouble figuring out what the tables should contain, here are five different suggestions:
-- E-commerce Theme: Customers, Orders
-- Financial theme: Personnel, salary payments
-- Animal theme: Animal breeds and feed types
-- Sports Theme: Teams, Players
+- Couldn't create database diagram due to iOS, Azure data Studio. It doesn't have the feature. Tried with other third party applications, but didn't work out.
